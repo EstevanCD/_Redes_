@@ -29,5 +29,18 @@ También conocida como red de datagramas o de paquetes, es un tipo de red en la 
 1.	Describir la estructura de una red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas. 
 En las redes de comunicación son necesarios unos métodos que tienen tres elementos en común, que son: Emisor, Receptor y Canal. Todo inicia con el origen del mensaje, luego sigue el codificador, después por medio de la señal llega al Transmisor, pasa por “El canal”, por medio de la señal llega al Receptor, después al Decodificador y por último llegaría el mensaje al Destino. También se hace necesaria la presencia de 4 elementos, los dispositivos, el medio de transmisión, el mensaje y protocolos.
 
+//
+
+3.	¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
+El Internetwork es la malla global que cubre las necesidades de
+comunicaciones humanas en todo el mundo. Entre las cuales se encuentran
+redes Privadas Gubernamentales, industriales, a las que se tiene acceso
+limitado y exclusivo, pero también existen redes públicas las cuales si
+podemos tener acceso y dentro de esta gran red se encuentra la red que
+llamamos Internet. La diferencia entre Internetwork e Internet es que la
+Internetwork es la red más amplia y abarca la internet en una de sus redes
+pertenecientes.
+
+
 
 
