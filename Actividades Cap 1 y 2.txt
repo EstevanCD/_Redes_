@@ -13,6 +13,16 @@ Es la infraestructura en la cual podemos transmitir, enviar y recibir datos a tr
 •	¿Qué es una red convergente?
 Es aquella que posibilita el transporte de diversos servicios de red, tales como la transmisión de voz, video y datos, a través de una única red, lo que elimina la necesidad de establecer y mantener redes separadas. A pesar de esta integración, aún se conservan numerosos puntos de acceso y dispositivos especializados, como computadoras personales y teléfonos, en una sola infraestructura de red compartida.
 
+//
+
+3.	Investigar qué son las redes orientadas y no orientadas a la conexión.
+•	Redes Orientadas a la conexión:
+Son la estructura primaria de la internet actual, uno de sus beneficios es un sistema telefónico conmutado por circuito, ya que los recursos de la conmutación están destinados a proporcionar un número amplio de circuitos, garantizando la calidad y la consistencia de la red en los mensajes transmitidos, otro beneficio es que el proveedor puede cargar las conexiones activas en su red mientras la conexión está activa.
+
+•	Redes No Orientadas a la conexión:
+También conocida como red de datagramas o de paquetes, es un tipo de red en la cual los datos son transmitidos como paquetes independientes entre sí, sin requerir la previa establecimiento de una conexión dedicada entre los dispositivos de origen y destino. En este tipo de red, cada paquete es enviado por separado y contiene la información necesaria para llegar a su destino de manera autónoma, sin depender de otros paquetes. Estos paquetes pueden seguir diversas rutas hacia su destino y podrían arribar en un orden distinto al que fueron enviados, lo que conlleva a la "entrega no garantizada".
+
+
 
 // CAP 2 //
 
