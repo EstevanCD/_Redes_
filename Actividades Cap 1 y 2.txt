@@ -44,7 +44,14 @@ La importancia de la calidad del servicio en una red de datos de basa en que per
 1.	Describir la estructura de una red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas. 
 En las redes de comunicación son necesarios unos métodos que tienen tres elementos en común, que son: Emisor, Receptor y Canal. Todo inicia con el origen del mensaje, luego sigue el codificador, después por medio de la señal llega al Transmisor, pasa por “El canal”, por medio de la señal llega al Receptor, después al Decodificador y por último llegaría el mensaje al Destino. También se hace necesaria la presencia de 4 elementos, los dispositivos, el medio de transmisión, el mensaje y protocolos.
 
-//
+2.	Comparar y contrastar los siguientes términos: RED, LAN, WAN, INTERNETWORK E INTERNET.
+•	RED: Se refiere al conjunto de dispositivos que utilizan conexiones ya sea alámbricas o inalámbricas para llevar a cabo la transferencia de diversos tipos de datos, como voz, videos, información y recursos, como impresoras. Dentro de esta categoría se engloban tanto las redes LAN como las WAN.
+•	LAN: Es una red que abarca una zona geográficamente reducida, siendo común dentro de organizaciones, empresas, instituciones educativas, hogares, entre otros. Su funcionalidad radica en facilitar el intercambio de información y servicios entre los dispositivos conectados, permitiendo compartir documentos y acceder a impresoras. Normalmente, el número de equipos conectados y los servicios disponibles se encuentran limitados en comparación con redes más extensas.
+•	WAN: Constituye una red concebida para enlazar redes LAN que están ubicadas a considerable distancia geográfica entre sí y requieren comunicarse para la transmisión de datos. Los proveedores de servicios de telecomunicaciones (TSP) son los encargados de posibilitar esta comunicación, que implica la interconexión de extremo a extremo.
+
+•	Internetwork: Hace referencia a una red ampliamente utilizada y accesible al público en general, conocida como Internet.
+
+•	Internet: Se trata de la interconexión de redes que pertenecen a los proveedores de servicios de internet (ISP). Es una red global que permite el acceso a una vasta cantidad de información y servicios en línea.
 
 3.	¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
 El Internetwork es la malla global que cubre las necesidades de
