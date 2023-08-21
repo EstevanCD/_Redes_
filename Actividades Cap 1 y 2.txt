@@ -13,7 +13,14 @@ Es la infraestructura en la cual podemos transmitir, enviar y recibir datos a tr
 •	¿Qué es una red convergente?
 Es aquella que posibilita el transporte de diversos servicios de red, tales como la transmisión de voz, video y datos, a través de una única red, lo que elimina la necesidad de establecer y mantener redes separadas. A pesar de esta integración, aún se conservan numerosos puntos de acceso y dispositivos especializados, como computadoras personales y teléfonos, en una sola infraestructura de red compartida.
 
-//
+2.	Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos ejemplos. 
+•	Tolerancia a Fallos: Limita el impacto de una falla de software o hardware y permite recuperarse rápidamente. Depende de la redundancia entre el origen y el destino la cual es transparente al usuario. Ya que los mensajes son empaquetados y enviados por diferentes caminos en la red, al fallar un nodo o varios, los paquetes pueden perderse y no llegar al destino, por lo que estos serían reenviados por otra ruta evitando que el mensaje se pierda o que sea necesario reenviar todo el mensaje.
+
+•	Escalabilidad: Permite expandirse rápidamente para admitir nuevos usuarios y aplicaciones sin afectar el rendimiento del servicio, es decir los usuarios que en ese momento están usando la red no notan el cambio. Este depende del diseño Jerárquico por capas. Un ejemplo de ello es cuando conectamos un nuevo dispositivo a la red wifi, para que este dispositivo empiece a funcionar no necesita que se reinicie el sistema, por ende, nadie ve afectado la calidad de la conexión por este nuevo equipo conectado; A gran escala esto mismo pasa al conectar redes LAN o WAN completas unas con otras.
+
+•	Calidad de Servicio (QpS): Establece el nivel aceptable de tolerancia a fallos y escalabilidad. Actualmente se tiene un nivel aceptable, sin embargo, con la inclusión de nuevos servicios puede afectar esta medida. Estas deben tener en cuenta las limitaciones tecnológicas, los costos, y la disponibilidad local del ancho de banda. Debido a que muchos de los paquetes que se envían se pierden al ingresar a la red, se hace necesario la clasificación de los mismo por medio de sus características. 
+
+•	Seguridad: Se debe asegurar la integridad de los activos de la red. La falla en la seguridad puede ocasionar interrupciones en la red, un mal direccionamiento, robo de información o divulgación de documento privados de una persona u organización. Para cumplir las expectativas de seguridad se debe monitorear la infraestructura de la red que indica la protección física de los dispositivos, y también asegurar el contenido que incluye el uso de herramientas que encriptan los mensajes y que aseguran que su contenido no fue modificado en la transmisión, como por ejemplo el Hash y el Checksum.
 
 3.	Investigar qué son las redes orientadas y no orientadas a la conexión.
 •	Redes Orientadas a la conexión:
