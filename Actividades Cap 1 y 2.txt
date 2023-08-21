@@ -29,7 +29,15 @@ Son la estructura primaria de la internet actual, uno de sus beneficios es un si
 •	Redes No Orientadas a la conexión:
 También conocida como red de datagramas o de paquetes, es un tipo de red en la cual los datos son transmitidos como paquetes independientes entre sí, sin requerir la previa establecimiento de una conexión dedicada entre los dispositivos de origen y destino. En este tipo de red, cada paquete es enviado por separado y contiene la información necesaria para llegar a su destino de manera autónoma, sin depender de otros paquetes. Estos paquetes pueden seguir diversas rutas hacia su destino y podrían arribar en un orden distinto al que fueron enviados, lo que conlleva a la "entrega no garantizada".
 
-//
+4.	Describa que es la calidad del servicio y responda: ¿Por qué importa la calidad del servicio en una red de datos? 
+La calidad del servicio se refiere a la capacidad de una red para asegurar que los datos sean entregados de manera puntual, eficiente y fiable a través de dicha red, especialmente en aplicaciones y servicios críticos que requieren un nivel constante y predecible de calidad de servicio. Mantener una alta calidad de servicio implica considerar varios factores.
+En primer lugar, el ancho de banda es crucial, y se logra mediante técnicas que asignan ancho de banda basado en prioridades, garantizando que las aplicaciones reciban el ancho necesario para funcionar adecuadamente. 
+Además, la latencia, que es el retraso que experimentan los paquetes de datos en la red, puede minimizarse con enfoques de enrutamiento y conmutación más eficientes, lo que contribuye a una experiencia más fluida.
+La pérdida de paquetes también es relevante en la calidad del servicio, especialmente en aplicaciones de voz y video. Para abordar esto, se emplean técnicas de gestión de congestión como el control de flujo y la eliminación selectiva de paquetes.
+El jitter, que representa la variación en el tiempo de llegada de los paquetes a su destino final, puede afectar negativamente las aplicaciones de voz y video. No obstante, se implementan técnicas de almacenamiento intermedio (buffering) para atenuar este efecto y lograr una reproducción más fluida.
+
+La importancia de la calidad del servicio en una red de datos de basa en que permite a la red proporcionar un rendimiento constante para las aplicaciones y servicios utilizan la red. En una red sin QoS, todos los paquetes de datos se tratan de la misma manera, o sea que las aplicaciones pueden experimentar retrasos, interrupciones y pérdida de datos debido a la congestión de la red; la caída del servicio de aplicaciones puede tener un impacto significativo en la productividad y en los ingresos de una organización.
+
 
 // CAP 2 //
 
