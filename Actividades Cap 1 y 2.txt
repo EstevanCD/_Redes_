@@ -63,7 +63,11 @@ llamamos Internet. La diferencia entre Internetwork e Internet es que la
 Internetwork es la red más amplia y abarca la internet en una de sus redes
 pertenecientes.
 
-//
+4.	Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
+•	Tarjeta de interfaz de red (NIC): Es un adaptador LAN que proporciona la conexión física de la red con la computadora u otro dispositivo servidor, cliente.
+•	Puerto físico: Es el conector o toma del dispositivo de red en el cual el medio se conecta con un host o con otro dispositivo de red.
+•	Interfaz de red: Son los puertos especializados de un dispositivo de internetworking que se conecta con redes individuales. Debido a que los routers se utilizan para interconectar redes, los puertos de un router se definen como interfaces de red.
+
 
 5.	¿Por qué se dice que un protocolo es independiente de la tecnología? 
 Existen muchos tipos de dispositivos pueden comunicarse con los mismos conjuntos de protocolos. Esto se debe a que los protocolos especifican la funcionalidad de red, no la tecnología subyacente para admitir esta funcionalidad. haciendo una comunicación independiente a la tecnología.
