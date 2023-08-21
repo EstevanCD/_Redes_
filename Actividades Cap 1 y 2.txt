@@ -62,4 +62,21 @@ Mediante la encapsulación es la forma que adopta una sección de datos en cualq
 
 //
 
+9.	Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
+Modelo TCP/IP
+•	Aplicación: Son los datos para el usuario más el control de codificación y el diálogo.
+•	Transporte: Es quien admite la comunicación entre distintos dispositivos en la red.
+•	Internet: Determina la mejor ruta a través de la red. 
+•	Acceso a la red: es quien controla los dispositivos del hardware y los medios que forman parte de la red.
+
+Modelo OSI
+•	Aplicación: Es donde se proporcionan los medios para la conectividad de extremo a extremo. 
+•	Presentación: Proporciona una representación común de los datos transferidos entre los servicios de la capa de aplicación. 
+•	Sesión: Proporciona los servicios de la capa de presentación para organizar su diálogo y el intercambio de datos. 
+•	Transporte: Aquí se definen los servicios para segmentar, transferir y reensamblar los datos.
+•	Red: Son los servicios para intercambiar los datos individuales en la red entre los dispositivos finales.
+•	Enlace de datos: Describe los métodos para intercambiar tramas de datos entre dispositivos en un medio común.
+•	Física: Son los medios mecánicos, eléctricos, funcionales y de procedimiento para activar y desactivar las conexiones físicas para la transmisión de bits hacia y desde un dispositivo de red.
+
+
 
