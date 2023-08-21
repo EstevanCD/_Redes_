@@ -46,6 +46,20 @@ pertenecientes.
 5.	¿Por qué se dice que un protocolo es independiente de la tecnología? 
 Existen muchos tipos de dispositivos pueden comunicarse con los mismos conjuntos de protocolos. Esto se debe a que los protocolos especifican la funcionalidad de red, no la tecnología subyacente para admitir esta funcionalidad. haciendo una comunicación independiente a la tecnología.
 
+//
 
+7.	Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
+La función de los protocolos de las comunicaciones se debe a que se busca
+una estandarización para que sea independiente a la tecnología que se
+utilice sea transparente para el tráfico de datos por eso el uso de estándares
+en el desarrollo de protocolos asegura que los productos de diferentes
+fabricantes puedan funcionar conjuntamente para lograr comunicaciones
+eficientes.
+
+Mediante la encapsulación es la forma que adopta una sección de datos en cualquier capa se denomina Unidad de datos del protocolo. Durante la encapsulación, cada capa encapsula las PDU que recibe de la capa superior de acuerdo con el protocolo que se utiliza. En cada etapa del proceso, una PDU tiene un nombre distinto para reflejar su nuevo aspecto.
+
+(dibujo en el pdf)
+
+//
 
 
