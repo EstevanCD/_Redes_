@@ -93,7 +93,8 @@ Mediante la encapsulación es la forma que adopta una sección de datos en cualq
 
 (dibujo en el pdf)
 
-//
+8.	Describir la diferencia entre los modelos de protocolo y modelos de referencia.
+Un modelo de protocolo es una estructura específica que abarca una jerarquía de protocolos interrelacionados que cumplen con las funciones necesarias para conectar la red humana con la red de datos. Un ejemplo de esto es el modelo TCP/IP, el cual califica como un modelo de protocolo debido a su descripción de las tareas que se llevan a cabo en cada capa de los protocolos. Por otra parte, un modelo de referencia proporciona pautas comunes con el fin de mantener una coherencia en todos los tipos de protocolos y servicios de red. Sin embargo, no está diseñado para ser seguido como una secuencia de pasos para la implementación, ni para ofrecer niveles de detalle minuciosos; su función principal es facilitar una comprensión más clara de las funciones y procesos involucrados.
 
 9.	Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
 Modelo TCP/IP
