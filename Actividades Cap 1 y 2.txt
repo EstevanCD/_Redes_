@@ -41,6 +41,11 @@ llamamos Internet. La diferencia entre Internetwork e Internet es que la
 Internetwork es la red más amplia y abarca la internet en una de sus redes
 pertenecientes.
 
+//
+
+5.	¿Por qué se dice que un protocolo es independiente de la tecnología? 
+Existen muchos tipos de dispositivos pueden comunicarse con los mismos conjuntos de protocolos. Esto se debe a que los protocolos especifican la funcionalidad de red, no la tecnología subyacente para admitir esta funcionalidad. haciendo una comunicación independiente a la tecnología.
+
 
 
 
