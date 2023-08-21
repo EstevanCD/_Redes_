@@ -3,6 +3,16 @@ INTEGRANTES:	YAQUELIN ALEJANDRA GOMEZ PEREZ
 
 // CAP 1 //
 
+1.	Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué es una red convergente?
+•	¿Qué son los datos?
+Son la información que se introduce en una computadora como entrada y se codifican de tal manera que la máquina pueda guardarla en su memoria.
+
+•	¿Qué es una red de datos?
+Es la infraestructura en la cual podemos transmitir, enviar y recibir datos a través de un intercambio de señales digitales o análogas.
+
+•	¿Qué es una red convergente?
+Es aquella que posibilita el transporte de diversos servicios de red, tales como la transmisión de voz, video y datos, a través de una única red, lo que elimina la necesidad de establecer y mantener redes separadas. A pesar de esta integración, aún se conservan numerosos puntos de acceso y dispositivos especializados, como computadoras personales y teléfonos, en una sola infraestructura de red compartida.
+
 
 // CAP 2 //
 
