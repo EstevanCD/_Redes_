@@ -22,9 +22,12 @@ Son la estructura primaria de la internet actual, uno de sus beneficios es un si
 •	Redes No Orientadas a la conexión:
 También conocida como red de datagramas o de paquetes, es un tipo de red en la cual los datos son transmitidos como paquetes independientes entre sí, sin requerir la previa establecimiento de una conexión dedicada entre los dispositivos de origen y destino. En este tipo de red, cada paquete es enviado por separado y contiene la información necesaria para llegar a su destino de manera autónoma, sin depender de otros paquetes. Estos paquetes pueden seguir diversas rutas hacia su destino y podrían arribar en un orden distinto al que fueron enviados, lo que conlleva a la "entrega no garantizada".
 
-
+//
 
 // CAP 2 //
+
+1.	Describir la estructura de una red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas. 
+En las redes de comunicación son necesarios unos métodos que tienen tres elementos en común, que son: Emisor, Receptor y Canal. Todo inicia con el origen del mensaje, luego sigue el codificador, después por medio de la señal llega al Transmisor, pasa por “El canal”, por medio de la señal llega al Receptor, después al Decodificador y por último llegaría el mensaje al Destino. También se hace necesaria la presencia de 4 elementos, los dispositivos, el medio de transmisión, el mensaje y protocolos.
 
 
 
