@@ -72,7 +72,14 @@ pertenecientes.
 5.	¿Por qué se dice que un protocolo es independiente de la tecnología? 
 Existen muchos tipos de dispositivos pueden comunicarse con los mismos conjuntos de protocolos. Esto se debe a que los protocolos especifican la funcionalidad de red, no la tecnología subyacente para admitir esta funcionalidad. haciendo una comunicación independiente a la tecnología.
 
-//
+6.	Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU).
+PDU: es un bloque específico de información transferida a través de una red.
+A menudo se usa en referencia al modelo OSI, ya que describe los diferentes
+tipos de datos que se transfieren desde cada capa. La unidad de datos del
+protocolo cambia entre siete capas diferentes y la información resultante
+que se transfiere desde la capa de aplicación a la capa física y devuelta no se
+modifica, pero el dato sufre una transformación en el proceso.
+
 
 7.	Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
 La función de los protocolos de las comunicaciones se debe a que se busca
